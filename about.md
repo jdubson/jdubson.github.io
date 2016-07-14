@@ -12,4 +12,4 @@ Learning // Efficiency // Outdoor Adventures // Liverpool F.C.
 
 ### Why Blog
 
-As I embark on this journey I want share lessons learned, difficulties encounters, trips & tricks, cool projects, etc. I hope that others will join me as I progress from knowing next to nothing and hopefully into a full-fledged data scientist.
+As I embark on this journey into data science I want share lessons learned, difficulties encounters, trips & tricks, cool projects, etc. I hope that others will join me as I progress from knowing next to nothing and into a full-fledged data scientist.
