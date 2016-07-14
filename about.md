@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a student at Metis Data Science Bootcamp in SF. I spent 3.5 years at Google working in spam analytics for Gmail and human computation for advertisements. Now I'm excited to transition to data science.
 
-### More Information
+### Interests
 
-A place to include any other types of information that you'd like to include about yourself.
+Learning | Efficiency | Outdoor Adventures | Liverpool F.C. 
 
-### Contact me
+### Why Blog
 
-[email@domain.com](mailto:email@domain.com)
+As I embark on this journey I want share lessons learned, difficulties encounters, trips & tricks, cool projects, etc. I hope that others will join me as I progress from knowing next to nothing and hopefully into a full-fledged data scientist.
