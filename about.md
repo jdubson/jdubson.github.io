@@ -8,7 +8,7 @@ I'm a student at Metis Data Science Bootcamp in SF. I spent 3.5 years at Google 
 
 ### Interests
 
-Learning | Efficiency | Outdoor Adventures | Liverpool F.C. 
+Learning // Efficiency // Outdoor Adventures // Liverpool F.C. 
 
 ### Why Blog
 
